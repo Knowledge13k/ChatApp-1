@@ -148,7 +148,6 @@
 				6391FBEA95C95EA980196494 /* Pods-ChatApp-tvOSTests.debug.xcconfig */,
 				3190FF41C570EA176445DEDD /* Pods-ChatApp-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
